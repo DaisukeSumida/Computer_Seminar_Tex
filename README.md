@@ -1,5 +1,8 @@
 # コンピューターゼミ2018(第3回 Tex)
 
+testtest
+
+
 ## 宿題
 このリポジトリに入っているhomework.pdfと同じレイアウトのものをhomework_name.tex上（nameの部分は自分の名前に書き換える)に作成しgithub上でpull requestを送ることで提出．
 
